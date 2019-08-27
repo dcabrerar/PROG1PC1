@@ -1,0 +1,3 @@
+Multiplexacion:
+Permite que el cliente y servidor desglosen un mensaje en tramas diferentes, 
+intercalarlas y luego ensamblarlas en el otro extremo.
