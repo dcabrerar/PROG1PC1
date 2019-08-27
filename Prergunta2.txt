@@ -1,0 +1,6 @@
+Objetivos de Git:
+- tiene que ser seguro
+- permitir el trabajo distribuido
+- tiene que ser escalable
+Creador: 
+Linus Tolvar
